@@ -1,0 +1,14 @@
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\bin\Debug\net7.0\challeng1.exe
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\bin\Debug\net7.0\challeng1.deps.json
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\bin\Debug\net7.0\challeng1.runtimeconfig.json
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\bin\Debug\net7.0\challeng1.dll
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\bin\Debug\net7.0\challeng1.pdb
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.dll
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\refint\challeng1.dll
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.pdb
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\challeng1.genruntimeconfig.cache
+C:\Users\usuario\OneDrive\Escritorio\practica C#\codember\challeng1\challeng1\obj\Debug\net7.0\ref\challeng1.dll
